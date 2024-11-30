@@ -1,15 +1,15 @@
 {
-  "title": "John Doe",
-  "url": "https://myurl.com/",
-  "description": "Photographer and Web Designer",
+  "title": "DARSHAN U",
+  "url": "https://www.linkedin.com/in/darshanu07/",
+  "description": "PASSIONATE ABOUT BRIDGING TECHNOLOGY AND INNOVATION",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I AM BUIDING MY SKILLS TO SLOVE THE PROBLEMS AND DO CREATIVE THINGS.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "DARSHAN U",
+    "email": "darshanu7777@gmail.com"
   }
 }
